@@ -10,7 +10,7 @@ Atualmente, estou em busca de uma nova oportunidade profissional onde eu possa a
 
 Tenho experiência sólida nas seguintes tecnologias:
 
-- 🔧 **Linguagens:** PHP, Python, JavaScript
+- 🔧 **Linguagens:** PHP, Python, JavaScript, TypeScript
 - 🧰 **Frameworks e bibliotecas:** Django, Laravel, React.js, Next.js
 - 🐳 **Ambientes e ferramentas:** Docker, Git, GitHub
 - 🛢️ **Banco de dados:** MySQL
@@ -44,9 +44,9 @@ Procuro por oportunidades como **desenvolvedor júnior (ou pleno, se fizer senti
 
 ## 📫 Como me encontrar
 
-- 📧 [Seu e-mail aqui]
-- 💼 [LinkedIn: linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- 🌐 [Portfólio (se tiver)]
+- 📧 E-mail: b.rrosocode@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/gabriel-barroso-fg
+- 🌐 Portfólio: https://gabrielbarroso.vercel.app
 
 ---
 
